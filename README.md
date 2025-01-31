@@ -43,7 +43,7 @@ This repository contains my solutions to **LeetCode's Top 75 problems**, tracked
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [🔗 Solution](./015_3sum.py) | 🟡 Medium | ✅ | 30/75 |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [🔗 Solution](./102_binary_tree_level_order.py) | 🟡 Medium | ✅ | 31/75 |
 ---
-
+<!--- 
 ## 🚀 How I Solve Problems  
 Each solution includes:  
 ✅ **Problem Explanation**  
@@ -52,7 +52,7 @@ Each solution includes:
 🛠️ **Alternative Approaches (if any)**  
 
 ---
-
+ --->
 ## 📌 Next Steps  
 - Solve **all 75 problems** ✅  
 - Optimize for **better runtime** 🔥  

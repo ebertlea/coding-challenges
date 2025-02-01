@@ -42,6 +42,20 @@ This repository contains my solutions to **LeetCode's Top 75 problems**, tracked
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [🔗 Solution](./003_longest_substring.py) | 🟡 Medium | ✅ | 29/75 |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [🔗 Solution](./015_3sum.py) | 🟡 Medium | ✅ | 30/75 |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [🔗 Solution](./102_binary_tree_level_order.py) | 🟡 Medium | ✅ | 31/75 |
+| 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | | 🟡 Medium | | |
+| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | | 🟡 Medium | | |
+| 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | | 🟡 Medium | | |
+| 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | | 🟡 Medium | | |
+| 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | | 🟡 Medium | | |
+| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | | 🟡 Medium | | |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | | 🟡 Medium | | |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | | 🟡 Medium | | |
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | | 🟡 Medium | | |
+| 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | | 🟡 Medium | | |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | | 🟡 Medium | | |
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | | 🟡 Medium | | |
+| 46 | [Permutations](https://leetcode.com/problems/permutations/) | | 🟡 Medium | | |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | | 🟡 Medium | | |
 ---
 <!--- 
 ## 🚀 How I Solve Problems  

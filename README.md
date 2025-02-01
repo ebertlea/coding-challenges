@@ -56,6 +56,36 @@ This repository contains my solutions to **LeetCode's Top 75 problems**, tracked
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | | 🟡 Medium | | |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | | 🟡 Medium | | |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | | 🟡 Medium | | |
+| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [🔗 Solution](./236_lowest_common_ancestor.py) |  |  |  |
+| 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/) | [🔗 Solution](./981_time_based_key_value_store.py) |  |  |  |
+| 721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/description/) | [🔗 Solution](./721_accounts_merge.py) |  |  |  |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [🔗 Solution](./075_sort_colors.py) |  |  |  |
+| 139 | [Word Break](https://leetcode.com/problems/word-break/description/) | [🔗 Solution](./139_word_break.py) |  |  |  |
+| 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [🔗 Solution](./416_partition_equal_subset_sum.py) |  |  |  |
+| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [🔗 Solution](./008_string_to_integer.py) |  |  |  |
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [🔗 Solution](./054_spiral_matrix.py) |  |  |  |
+| 78 | [Subsets](https://leetcode.com/problems/subsets/description/) | [🔗 Solution](./078_subsets.py) |  |  |  |
+| 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | [🔗 Solution](./199_binary_tree_right_side_view.py) |  |  |  |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [🔗 Solution](./005_longest_palindromic_substring.py) |  |  |  |
+| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [🔗 Solution](./062_unique_paths.py) |  |  |  |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | [🔗 Solution](./105_construct_binary_tree.py) |  |  |  |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [🔗 Solution](./011_container_with_most_water.py) |  |  |  |
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [🔗 Solution](./017_letter_combinations.py) |  |  |  |
+| 79 | [Word Search](https://leetcode.com/problems/word-search/description/) | [🔗 Solution](./079_word_search.py) |  |  |  |
+| 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) | [🔗 Solution](./438_find_all_anagrams.py) |  |  |  |
+| 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/description/) | [🔗 Solution](./310_minimum_height_trees.py) |  |  |  |
+| 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) | [🔗 Solution](./621_task_scheduler.py) |  |  |  |
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/description/) | [🔗 Solution](./146_lru_cache.py) |  |  |  |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [🔗 Solution](./230_kth_smallest_element.py) |  |  |  |
+| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [🔗 Solution](./076_minimum_window_substring.py) |  |  |  |
+| 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | [🔗 Solution](./297_serialize_deserialize_binary_tree.py) |  |  |  |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [🔗 Solution](./042_trapping_rain_water.py) |  |  |  |
+| 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) | [🔗 Solution](./295_find_median.py) |  |  |  |
+| 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/description/) | [🔗 Solution](./127_word_ladder.py) |  |  |  |
+| 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) | [🔗 Solution](./224_basic_calculator.py) |  |  |  |
+| 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) | [🔗 Solution](./1235_max_profit_job_scheduling.py) |  |  |  |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [🔗 Solution](./023_merge_k_sorted_lists.py) |  |  |  |
+| 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | [🔗 Solution](./084_largest_rectangle.py) |  |  |  |
 ---
 <!--- 
 ## 🚀 How I Solve Problems  
